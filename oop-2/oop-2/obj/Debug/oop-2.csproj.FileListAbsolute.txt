@@ -1,0 +1,7 @@
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\bin\Debug\oop-2.exe.config
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\bin\Debug\oop-2.exe
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\bin\Debug\oop-2.pdb
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\obj\Debug\oop-2.csprojResolveAssemblyReference.cache
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\obj\Debug\oop-2.csproj.CoreCompileInputs.cache
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\obj\Debug\oop-2.exe
+c:\users\slava\documents\visual studio 2017\Projects\oop-2\oop-2\obj\Debug\oop-2.pdb

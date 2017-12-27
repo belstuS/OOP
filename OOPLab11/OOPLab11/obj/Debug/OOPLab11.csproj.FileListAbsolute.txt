@@ -1,0 +1,6 @@
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\bin\Debug\OOPLab11.exe.config
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\bin\Debug\OOPLab11.exe
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\bin\Debug\OOPLab11.pdb
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\obj\Debug\OOPLab11.csprojResolveAssemblyReference.cache
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\obj\Debug\OOPLab11.exe
+D:\3сем\ООП1\OOP1_Lab11\OOPLab11\OOPLab11\obj\Debug\OOPLab11.pdb

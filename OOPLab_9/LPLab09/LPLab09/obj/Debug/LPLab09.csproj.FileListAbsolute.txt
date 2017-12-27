@@ -1,0 +1,6 @@
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\bin\Debug\LPLab09.exe.config
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\bin\Debug\LPLab09.exe
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\bin\Debug\LPLab09.pdb
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\obj\Debug\LPLab09.csprojResolveAssemblyReference.cache
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\obj\Debug\LPLab09.exe
+D:\3сем\ООП1\OOP1_Lab9\LPLab09\LPLab09\obj\Debug\LPLab09.pdb

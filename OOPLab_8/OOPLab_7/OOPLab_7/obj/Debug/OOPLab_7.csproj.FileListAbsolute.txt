@@ -1,0 +1,13 @@
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.exe.config
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.exe
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.pdb
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.csprojResolveAssemblyReference.cache
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.exe
+D:\3сем\ООП1\OOP1_Lab8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.pdb
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.exe.config
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.exe
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\bin\Debug\OOPLab_7.pdb
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.csprojResolveAssemblyReference.cache
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.exe
+C:\Users\Slava\Desktop\Универ\OOP\OOPLab_8\OOPLab_7\OOPLab_7\obj\Debug\OOPLab_7.pdb

@@ -1,0 +1,11 @@
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\OOPLab13.exe.config
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\OOPLab13.exe
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\OOPLab13.pdb
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\obj\Debug\OOPLab13.csprojResolveAssemblyReference.cache
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\obj\Debug\OOPLab13.exe
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\obj\Debug\OOPLab13.pdb
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\DotNetZip.dll
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\NuGet.Core.dll
+D:\3сем\ООП1\OOP1_Lab13\OOPLab13\OOPLab13\bin\Debug\DotNetZip.xml

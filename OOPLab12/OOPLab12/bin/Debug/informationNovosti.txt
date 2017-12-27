@@ -1,0 +1,30 @@
+Information about Methods 
+Method's Name: ToString
+Method's return Type: System.String
+
+Method's Name: output
+Method's return Type: System.Void
+Parameter Name: p1
+Method Name: System.String
+Parameter Name: p2
+Method Name: System.String
+
+Method's Name: Equals
+Method's return Type: System.Boolean
+Parameter Name: obj
+Method Name: System.Object
+
+Method's Name: GetHashCode
+Method's return Type: System.Int32
+
+Method's Name: GetType
+Method's return Type: System.Type
+
+
+Information about fileds 
+Field time
+
+Information About Interfaces
+
+Methods with paramer type of 
+System.Object

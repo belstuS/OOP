@@ -1,0 +1,7 @@
+D:\Лабы\ООП\OOP15\OOP15\bin\Debug\OOP15.exe.config
+D:\Лабы\ООП\OOP15\OOP15\bin\Debug\OOP15.exe
+D:\Лабы\ООП\OOP15\OOP15\bin\Debug\OOP15.pdb
+D:\Лабы\ООП\OOP15\OOP15\obj\Debug\OOP15.csprojResolveAssemblyReference.cache
+D:\Лабы\ООП\OOP15\OOP15\obj\Debug\OOP15.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\OOP15\OOP15\obj\Debug\OOP15.exe
+D:\Лабы\ООП\OOP15\OOP15\obj\Debug\OOP15.pdb

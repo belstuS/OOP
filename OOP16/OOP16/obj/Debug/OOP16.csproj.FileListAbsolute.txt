@@ -1,0 +1,7 @@
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.exe.config
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.exe
+D:\Лабы\ООП\OOP16\OOP16\bin\Debug\OOP16.pdb
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.csprojResolveAssemblyReference.cache
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.csproj.CoreCompileInputs.cache
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.exe
+D:\Лабы\ООП\OOP16\OOP16\obj\Debug\OOP16.pdb

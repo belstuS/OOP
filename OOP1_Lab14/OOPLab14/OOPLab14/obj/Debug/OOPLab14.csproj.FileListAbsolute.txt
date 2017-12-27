@@ -1,0 +1,5 @@
+D:\3сем\ООП1\OOP1_Lab14\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe.config
+D:\3сем\ООП1\OOP1_Lab14\OOPLab14\OOPLab14\bin\Debug\OOPLab14.exe
+D:\3сем\ООП1\OOP1_Lab14\OOPLab14\OOPLab14\bin\Debug\OOPLab14.pdb
+D:\3сем\ООП1\OOP1_Lab14\OOPLab14\OOPLab14\obj\Debug\OOPLab14.exe
+D:\3сем\ООП1\OOP1_Lab14\OOPLab14\OOPLab14\obj\Debug\OOPLab14.pdb
